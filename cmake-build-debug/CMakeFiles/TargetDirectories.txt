@@ -1,0 +1,3 @@
+/Users/nelsonogbuigwe/CODE/CPP/cpp-repos/rotating-cube/cmake-build-debug/CMakeFiles/rotating_cube.dir
+/Users/nelsonogbuigwe/CODE/CPP/cpp-repos/rotating-cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nelsonogbuigwe/CODE/CPP/cpp-repos/rotating-cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
